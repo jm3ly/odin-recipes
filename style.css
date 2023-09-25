@@ -60,3 +60,9 @@ button{
      width: auto
 }
 
+img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
